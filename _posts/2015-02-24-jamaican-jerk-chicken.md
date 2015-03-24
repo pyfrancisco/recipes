@@ -8,5 +8,9 @@ categories: main
 # Jamaican Jerk Chicken
 
 ### Ingredients
+- Ingredient 1
+- Ingredient 2
+- Ingredient 3
+- Ingredient 4
 
 ### Directions
